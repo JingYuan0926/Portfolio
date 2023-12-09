@@ -38,7 +38,7 @@ const TAB_DATA = [
         id: "education",
         content: (
           <ul className="list-disc pl-2">
-                <li>Taylor's University</li>
+                <li>Taylor&apos;s University</li>
                 <li>Chong Hwa Independent High School</li>
           </ul>
         ),
@@ -63,9 +63,9 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">I am currently pursuing a degree in Cyber Security and AI at Taylor's University, where I have been honing my skills in various technologies. I am familiar in frontend and backend, with expertise in React, Java, Python and I'm skilled in thinking creative and impactful solutions then excetuted it.
-                        Additionally, I've ventured into the world of blockchain development, particularly with Solidity, allowing me to build smart contracts for decentralized applications.
-                        My passion for technology and problem-solving has led me to actively participate in 5 hackathons this year, where I primarily serve as the Team Leader and backend developer. However, I am not limited to backend tasks and often take on frontend responsibilities, demonstrating my versatility and commitment to delivering complete solutions. </p>
+                    <p className="text-base text-justify lg:text-lg">I am currently pursuing a degree in Cyber Security and AI at Taylor&apos;s University, where I have been honing my skills in various technologies. I am familiar in frontend and backend, with expertise in React, Java, Python and I&apos;m skilled in thinking creative and impactful solutions then excetuted it.
+                        Additionally, I&apos;ve ventured into the world of blockchain development, particularly with Solidity, allowing me to build smart contracts for decentralized applications.
+                        My passion for technology and problem-solving has led me to actively participate in 5 hackathons this year, where I primarily serve as the Team Leader and backend developer. However, I&apos;m not limited to backend tasks and often take on frontend responsibilities, demonstrating my versatility and commitment to delivering complete solutions. </p>
                     <div className="flex flex-row mt-8">
 {/* 1e */}
                         <TabButton 

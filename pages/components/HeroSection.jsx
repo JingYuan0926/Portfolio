@@ -18,13 +18,13 @@ const HeroSection = () => {
             <h1 className="font-extrabold">
               {/* span text seperator -- for design*/}
               <span className="text-white text-8xl ">
-                Hello, I'm{" "} 
+                Hello, I&apos;m{" "} 
                 <span className="text-transparent bg-clip-text sm:text-8xl md:text-8xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
                 Jing Yuan
                 </span>
               </span>
               <br></br>
-              <span className="text-7xl">I'm a
+              <span className="text-7xl">I&apos;m a
               <TypeWritter
                 options={{
                     autoStart: true,
